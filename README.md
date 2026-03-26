@@ -119,7 +119,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Your LLM keeps ignoring your instructions. How do you make it follow structured output formats?
 - Your LLM-powered tool hits the context window limit on long documents. How do you handle it?
 - Your LLM does not admit when it does not know the answer. How do you make it say "I don't know"?
-    - Answer: https://medium.com/@miskelic/how-to-teach-your-llm-to-say-i-dont-know-8dc8beac1ea9 
+    - Answer: https://medium.com/@miskelic/how-to-teach-your-llm-to-say-i-dont-know-8dc8beac1ea9
+              https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/
 - Your LLM generates responses that are too verbose. How do you control response length?
 - Your LLM memorized proprietary training data and leaks it in responses. How do you prevent this?
 - Your LLM coding assistant generates outdated code using deprecated libraries. How do you fix it?
